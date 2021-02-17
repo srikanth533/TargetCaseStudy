@@ -1,0 +1,77 @@
+<resources>
+
+  <!-- Base application theme. -->
+  <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/colorAccent</item>
+  </style>
+
+  <style name="TextWhiteMedium">
+    <item name="android:textStyle">normal</item>
+    <item name="android:textColor">@color/white_color</item>
+    <item name="android:textSize">@dimen/fontMedium</item>
+  </style>
+
+  <style name="TextBlackMedium">
+    <item name="android:textStyle">normal</item>
+    <item name="android:textColor">@color/black</item>
+    <item name="android:textSize">@dimen/fontMedium</item>
+  </style>
+
+  <style name="TextBlackSmall">
+    <item name="android:textStyle">normal</item>
+    <item name="android:textColor">@color/black</item>
+    <item name="android:textSize">@dimen/fontSmall</item>
+  </style>
+
+  <style name="TextBlackXSmall">
+    <item name="android:textStyle">normal</item>
+    <item name="android:textColor">@color/black</item>
+    <item name="android:textSize">@dimen/fontXSmall</item>
+  </style>
+
+  <style name="TextGrayMedium">
+    <item name="android:textStyle">normal</item>
+    <item name="android:textColor">@color/gray_color</item>
+    <item name="android:textSize">@dimen/fontMedium</item>
+  </style>
+
+  <style name="TextGraySmall">
+    <item name="android:textStyle">normal</item>
+    <item name="android:textColor">@color/gray_color</item>
+    <item name="android:textSize">@dimen/fontSmall</item>
+  </style>
+
+  <style name="TextGrayXSmall">
+    <item name="android:textStyle">normal</item>
+    <item name="android:textColor">@color/gray_color</item>
+    <item name="android:textSize">@dimen/fontXSmall</item>
+  </style>
+
+  <style name="TextLightGrayMedium">
+    <item name="android:textStyle">normal</item>
+    <item name="android:textColor">@color/light_gray</item>
+    <item name="android:textSize">@dimen/fontMedium</item>
+  </style>
+
+  <style name="TextLightGrayXSmall">
+    <item name="android:textStyle">normal</item>
+    <item name="android:textColor">@color/light_gray</item>
+    <item name="android:textSize">@dimen/fontXSmall</item>
+  </style>
+
+  <style name="TextRedMedium">
+    <item name="android:textStyle">normal</item>
+    <item name="android:textColor">@color/colorPrimary</item>
+    <item name="android:textSize">@dimen/fontMedium</item>
+  </style>
+
+  <style name="TextRedXSmall">
+    <item name="android:textStyle">normal</item>
+    <item name="android:textColor">@color/colorPrimary</item>
+    <item name="android:textSize">@dimen/fontXSmall</item>
+  </style>
+
+</resources>

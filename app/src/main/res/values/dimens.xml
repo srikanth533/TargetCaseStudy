@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="deal_list_item_image_size">80dp</dimen>
+  <dimen name="activity_horizontal_margin">16dp</dimen>
+
+  <dimen name="medium_margin">16dp</dimen>
+  <dimen name="small_margin">12dp</dimen>
+  <dimen name="xsmall_margin">8dp</dimen>
+  <dimen name="image_dimension">100dp</dimen>
+  <dimen name="detail_image_dimension">350dp</dimen>
+  <dimen name="divider_height">1dp</dimen>
+
+
+  <dimen name="fontMedium">19sp</dimen>
+  <dimen name="fontSmall">18sp</dimen>
+  <dimen name="fontXSmall">16sp</dimen>
+</resources>
